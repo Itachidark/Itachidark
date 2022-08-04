@@ -19,7 +19,7 @@ app.json
 Update app.json
 1 months ago
 config.js
-use DIS_PM:true to disable bot in PM. (Bot won't work on Pm chats exc…
+use DIS_PM:true to disable bot in PM. (Bot work on Pm chats exc…
 3 days ago
 heroku.yml
 Beta release
@@ -28,7 +28,7 @@ index.js
 Exclusive: Added delete everyone's message by admin (beta)
 12 hours ago
 main.js
-Handlers update. Use: ,, ,. rgnk 😁 like characters. Added alias commands
+Handlers update. Use: ,, ,. itac 😁 like characters. Added alias commands
 last month
 package.json
-test: fix unknown picture mimetype on audio take
+test: fix unknown picture mimetype on audio take and stiker
