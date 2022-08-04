@@ -1,24 +1,23 @@
 lib
 fix
-23 days ago
+20 days ago
 plugins
 critical fix
 11 hours ago
 temp
-🤦‍♂️
-11 days ago
+10 days ago
 Dockerfile
 feat: Change dockerfile
 2 months ago
 LICENSE
-Raganork MD : first release
+itachi MD : first release
 3 months ago
 README.md
-New QR site: https://raganork-web.vercel.app/
-7 days ago
+New QR site: https://itachi-web.vercel.app/
+5 days ago
 app.json
 Update app.json
-2 months ago
+1 months ago
 config.js
 use DIS_PM:true to disable bot in PM. (Bot won't work on Pm chats exc…
 3 days ago
